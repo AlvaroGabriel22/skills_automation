@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automação — Orquestrador"
+  short_description: "Conduzir um fluxo completo e gerar sua automação"
+  default_prompt: "Use $automation-orchestrator para concluir esta etapa da automação e registrar evidências."

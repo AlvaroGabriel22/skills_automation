@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automação — SAP desktop"
+  short_description: "Investigar e automatizar SAP GUI para Windows"
+  default_prompt: "Use $automation-sap-desktop para concluir esta etapa da automação e registrar evidências."

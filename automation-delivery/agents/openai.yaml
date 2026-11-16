@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automação — Código e testes"
+  short_description: "Entregar código modular, testes e repetição simples"
+  default_prompt: "Use $automation-delivery para concluir esta etapa da automação e registrar evidências."

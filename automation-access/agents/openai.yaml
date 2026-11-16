@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automação — Acesso e credenciais"
+  short_description: "Preparar acesso, sessão e credenciais locais"
+  default_prompt: "Use $automation-access para concluir esta etapa da automação e registrar evidências."

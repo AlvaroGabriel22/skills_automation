@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automação — Execução web"
+  short_description: "Navegar e confirmar resultados com Playwright"
+  default_prompt: "Use $automation-web-execution para concluir esta etapa da automação e registrar evidências."

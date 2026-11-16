@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automação — Inspeção web"
+  short_description: "Investigar DOM, frames, SVG e controles difíceis"
+  default_prompt: "Use $automation-web-discovery para concluir esta etapa da automação e registrar evidências."

@@ -1,0 +1,3 @@
+# Versões disponíveis na reconstrução; instalação do navegador é separada.
+PyYAML==6.0.3
+playwright==1.62.0

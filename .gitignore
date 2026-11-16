@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.auth/
+.state/
+browser-profile/
+artifacts/private/
+*.har
+trace*.zip

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automação — Arquivos e downloads"
+  short_description: "Validar downloads e entregar arquivos com segurança"
+  default_prompt: "Use $automation-files para concluir esta etapa da automação e registrar evidências."
